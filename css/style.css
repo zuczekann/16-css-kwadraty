@@ -1,0 +1,11 @@
+.square {
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/width */
+
+    height: 100px;
+    width: 100px;
+    border: 1px solid; 
+    
+    width:#808080;
+    height: #808080;
+    background-color: #fea500;
+  }
